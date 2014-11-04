@@ -16,3 +16,7 @@ All of the links I have collected over time related to IT, development, computer
 ## Learning to Program (All skill levels)
 * [Code Academy](http://www.codecademy.com/learn)
  * This is my favorite site to learn web development and other associated skills. Check out the JavaScript tutorials as they are pretty nice. 
+
+## Neural Networks
+* [Hacker's Guide to Neural Networks](http://karpathy.github.io/neuralnets/)
+ * JavaScript and neural networks, check it out. 
