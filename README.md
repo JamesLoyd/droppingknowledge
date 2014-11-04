@@ -1,5 +1,3 @@
-All of the links I have collected over time related to IT, development, computer science, and plain old programming. Feel free to send me a pull request to add yours!
-
 ## CSS
 * [Object Oriented CSS](http://www.smashingmagazine.com/2011/12/12/an-introduction-to-object-oriented-css-oocss/)
   * This is an interesting way to do CSS style sheets for large projects.
