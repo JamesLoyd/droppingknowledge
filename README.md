@@ -13,6 +13,6 @@ All of the links I have collected over the time related to IT, development, comp
 * [C#- Intro from MSDN](http://msdn.microsoft.com/en-us/library/aa645597(v=vs.71).aspx)
  * This gives a pretty good intro from microsoft.  
 
-### General Programming
+## General Programming
 * [Code Academy](http://www.codecademy.com/learn)
  * This is my favorite site to learn web development and other associated skills. Check out the JavaScript tutorials as they are pretty nice. 
