@@ -16,7 +16,7 @@ All of the links I have collected over time related to IT, development, computer
 ## Learning to Program (All skill levels)
 * [Code Academy](http://www.codecademy.com/learn)
  * This is my favorite site to learn web development and other associated skills. Check out the JavaScript tutorials as they are pretty nice.
- * [Coderbyte](http://coderbyte.com/CodingArea/Challenges/#hardChals)
+* [Coderbyte](http://coderbyte.com/CodingArea/Challenges/#hardChals)
   * Has a pretty good selection of languages to do challenges in. And, we all know the best way to learn something is to do the challenges and see how much we really know versus what we have to look up. 
 
 ## Neural Networks
