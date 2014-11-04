@@ -9,6 +9,6 @@ All of the links I have collected over the time related to IT, development, comp
 * [Devops Weekly](http://www.devopsweekly.com/)
   * One of my personal favorite for DevOps where its deploying code, continous integration, and the like.
 
-### C\#\
+### \C#\
 * [C#- Intro from MSDN](http://msdn.microsoft.com/en-us/library/aa645597(v=vs.71).aspx)
  * This gives a pretty good intro from microsoft.  
